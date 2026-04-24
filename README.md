@@ -23,6 +23,9 @@ A simple beginner-friendly calculator in Python.
 
 python απλή\\\\\\\_αριθμομηχανή\\\\\\\_v2.py
 
+## Example
+Input: 10 / 2  
+Output: 5.0
 
 
 
